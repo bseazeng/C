@@ -1,0 +1,5 @@
+---- handMsg Matches (4 in 1 files) ----
+Server.c (socket\tcp3): º¯ Êý Ãû  : handMsg
+Server.c (socket\tcp3):int handMsg( char *msg, int msg_len , int sockFd)
+Server.c (socket\tcp3):		iret = handMsg(buffer,recvLen);
+Server.c (socket\tcp3):			CommonPrintf("handMsg failed\n");
