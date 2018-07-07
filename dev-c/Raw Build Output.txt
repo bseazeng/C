@@ -1,0 +1,3153 @@
+2018/7/7 ÐÇÆÚÁù 10:23:57: Creating log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+mingw32-make.exe: Nothing to be done for 'all'.
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 142.8017578125 KiB
+- Compilation Time: 0.28s
+
+2018/7/7 ÐÇÆÚÁù 10:24:10: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+mingw32-make.exe: Nothing to be done for 'all'.
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 142.8017578125 KiB
+- Compilation Time: 2.84s
+
+2018/7/7 ÐÇÆÚÁù 10:24:15: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_1.o SDL_Test.exe
+g++.exe -c SDL_test_1.cpp -o ../dev-c/SDL_test_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include" 
+g++.exe ../dev-c/SDL_test_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 142.8017578125 KiB
+- Compilation Time: 3.15s
+
+2018/7/7 ÐÇÆÚÁù 10:25:31: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -c SDL_test_1.cpp -o ../dev-c/SDL_test_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include" 
+g++.exe ../dev-c/SDL_test_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 142.8017578125 KiB
+- Compilation Time: 2.11s
+
+2018/7/7 ÐÇÆÚÁù 10:28:49: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -c SDL_test_1.cpp -o ../dev-c/SDL_test_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include" 
+g++.exe ../dev-c/SDL_test_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 142.8017578125 KiB
+- Compilation Time: 2.03s
+
+2018/7/7 ÐÇÆÚÁù 10:36:56: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -c SDL_test_1.cpp -o ../dev-c/SDL_test_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+g++.exe ../dev-c/SDL_test_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 142.8017578125 KiB
+- Compilation Time: 2.36s
+
+2018/7/7 ÐÇÆÚÁù 10:37:33: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_1.o SDL_Test.exe
+g++.exe -c SDL_test_1.cpp -o ../dev-c/SDL_test_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+g++.exe ../dev-c/SDL_test_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 142.8017578125 KiB
+- Compilation Time: 1.95s
+
+2018/7/7 ÐÇÆÚÁù 10:38:12: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+mingw32-make.exe: Nothing to be done for 'all'.
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 142.8017578125 KiB
+- Compilation Time: 0.27s
+
+2018/7/7 ÐÇÆÚÁù 10:44:25: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+mingw32-make.exe: Nothing to be done for 'all'.
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 142.8017578125 KiB
+- Compilation Time: 0.30s
+
+2018/7/7 ÐÇÆÚÁù 10:44:58: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -c SDL_test_1.cpp -o ../dev-c/SDL_test_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-1.2.15/include/SDL" 
+g++.exe ../dev-c/SDL_test_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-1.2.15/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find -lSDL2main
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find -lSDL2
+collect2.exe: error: ld returned 1 exit status
+F:\git\C\dev-c\Makefile.win:25: recipe for target 'SDL_Test.exe' failed
+mingw32-make.exe: *** [SDL_Test.exe] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Compilation Time: 1.81s
+
+2018/7/7 ÐÇÆÚÁù 10:45:20: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_1.o SDL_Test.exe
+g++.exe -c SDL_test_1.cpp -o ../dev-c/SDL_test_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-1.2.15/include/SDL" 
+g++.exe ../dev-c/SDL_test_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-1.2.15/lib" -static-libgcc -mwindows -lmingw32 -lSDLmain -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib\libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDL.dll.a when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDL.dll.a when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find -lSDL
+collect2.exe: error: ld returned 1 exit status
+F:\git\C\dev-c\Makefile.win:25: recipe for target 'SDL_Test.exe' failed
+mingw32-make.exe: *** [SDL_Test.exe] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Compilation Time: 1.70s
+
+2018/7/7 ÐÇÆÚÁù 10:46:22: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_1.o SDL_Test.exe
+g++.exe -c SDL_test_1.cpp -o ../dev-c/SDL_test_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-1.2.15/include/SDL" 
+g++.exe ../dev-c/SDL_test_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-1.2.15/lib" -L"D:/SDL-1.2.15/bin" -static-libgcc -mwindows -lmingw32 -lSDLmain -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib\libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDL.dll.a when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDL.dll.a when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find -lSDL
+collect2.exe: error: ld returned 1 exit status
+F:\git\C\dev-c\Makefile.win:25: recipe for target 'SDL_Test.exe' failed
+mingw32-make.exe: *** [SDL_Test.exe] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Compilation Time: 1.83s
+
+2018/7/7 ÐÇÆÚÁù 10:46:29: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_1.o SDL_Test.exe
+g++.exe -c SDL_test_1.cpp -o ../dev-c/SDL_test_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-1.2.15/include/SDL" 
+g++.exe ../dev-c/SDL_test_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-1.2.15/lib" -L"D:/SDL-1.2.15/bin" -static-libgcc -mwindows -lmingw32 -lSDLmain -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib\libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDL.dll.a when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDL.dll.a when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find -lSDL
+collect2.exe: error: ld returned 1 exit status
+F:\git\C\dev-c\Makefile.win:25: recipe for target 'SDL_Test.exe' failed
+mingw32-make.exe: *** [SDL_Test.exe] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Compilation Time: 1.84s
+
+2018/7/7 ÐÇÆÚÁù 10:48:45: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe ../dev-c/SDL_test_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-1.2.15/lib" -L"D:/SDL-1.2.15/bin" -static-libgcc -mwindows -lmingw32 -lSDLmain -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib\libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDL.dll.a when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDL.dll.a when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find -lSDL
+collect2.exe: error: ld returned 1 exit status
+F:\git\C\dev-c\Makefile.win:25: recipe for target 'SDL_Test.exe' failed
+mingw32-make.exe: *** [SDL_Test.exe] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Compilation Time: 1.17s
+
+2018/7/7 ÐÇÆÚÁù 10:49:29: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe ../dev-c/SDL_test_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-1.2.15/lib" -L"D:/SDL-1.2.15/bin" -static-libgcc -mwindows -lmingw32 -lSDLmain -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib\libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDL.dll.a when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDL.dll.a when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find -lSDL
+collect2.exe: error: ld returned 1 exit status
+F:\git\C\dev-c\Makefile.win:25: recipe for target 'SDL_Test.exe' failed
+mingw32-make.exe: *** [SDL_Test.exe] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Compilation Time: 0.97s
+
+2018/7/7 ÐÇÆÚÁù 10:49:35: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe ../dev-c/SDL_test_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-1.2.15/lib" -L"D:/SDL-1.2.15/bin" -static-libgcc -mwindows -lmingw32 -lSDLmain -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib\libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDL.dll.a when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDL.dll.a when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find -lSDL
+collect2.exe: error: ld returned 1 exit status
+F:\git\C\dev-c\Makefile.win:25: recipe for target 'SDL_Test.exe' failed
+mingw32-make.exe: *** [SDL_Test.exe] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Compilation Time: 0.92s
+
+2018/7/7 ÐÇÆÚÁù 10:53:40: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe ../dev-c/SDL_test_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-1.2.15/lib" -L"D:/SDL-1.2.15/bin" -static-libgcc -mwindows -lmingw32 -lSDLmain -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib\libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDL.a when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib\libSDL.a when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDL.a when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find -lSDL
+collect2.exe: error: ld returned 1 exit status
+F:\git\C\dev-c\Makefile.win:25: recipe for target 'SDL_Test.exe' failed
+mingw32-make.exe: *** [SDL_Test.exe] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Compilation Time: 1.08s
+
+2018/7/7 ÐÇÆÚÁù 10:53:45: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_1.o SDL_Test.exe
+g++.exe -c SDL_test_1.cpp -o ../dev-c/SDL_test_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-1.2.15/include/SDL" 
+g++.exe ../dev-c/SDL_test_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-1.2.15/lib" -L"D:/SDL-1.2.15/bin" -static-libgcc -mwindows -lmingw32 -lSDLmain -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib\libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDL.a when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib\libSDL.a when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDL.a when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find -lSDL
+collect2.exe: error: ld returned 1 exit status
+F:\git\C\dev-c\Makefile.win:25: recipe for target 'SDL_Test.exe' failed
+mingw32-make.exe: *** [SDL_Test.exe] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Compilation Time: 1.84s
+
+2018/7/7 ÐÇÆÚÁù 10:53:53: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe ../dev-c/SDL_test_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-1.2.15/lib" -L"D:/SDL-1.2.15/bin" -static-libgcc -mwindows -lmingw32 -lSDLmain -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib\libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDL.a when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib\libSDL.a when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/lib/libSDL.a when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find -lSDL
+collect2.exe: error: ld returned 1 exit status
+F:\git\C\dev-c\Makefile.win:25: recipe for target 'SDL_Test.exe' failed
+mingw32-make.exe: *** [SDL_Test.exe] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Compilation Time: 1.08s
+
+2018/7/7 ÐÇÆÚÁù 10:56:10: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe ../dev-c/SDL_test_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDLmain -lSDL
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find -lSDLmain
+D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find -lSDL
+collect2.exe: error: ld returned 1 exit status
+F:\git\C\dev-c\Makefile.win:25: recipe for target 'SDL_Test.exe' failed
+mingw32-make.exe: *** [SDL_Test.exe] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Compilation Time: 1.14s
+
+2018/7/7 ÐÇÆÚÁù 10:56:46: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe ../dev-c/SDL_test_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2
+../dev-c/SDL_test_1.o:SDL_test_1.cpp:(.text+0x40): undefined reference to `SDL_SetVideoMode'
+collect2.exe: error: ld returned 1 exit status
+F:\git\C\dev-c\Makefile.win:25: recipe for target 'SDL_Test.exe' failed
+mingw32-make.exe: *** [SDL_Test.exe] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Compilation Time: 1.06s
+
+2018/7/7 ÐÇÆÚÁù 10:57:00: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -c SDL_test_1.cpp -o ../dev-c/SDL_test_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+g++.exe ../dev-c/SDL_test_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 142.8017578125 KiB
+- Compilation Time: 1.95s
+
+2018/7/7 ÐÇÆÚÁù 10:57:07: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_1.o SDL_Test.exe
+g++.exe -c SDL_test_1.cpp -o ../dev-c/SDL_test_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+g++.exe ../dev-c/SDL_test_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 142.8017578125 KiB
+- Compilation Time: 2.18s
+
+2018/7/7 ÐÇÆÚÁù 11:01:02: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -c SDL_test_1.cpp -o ../dev-c/SDL_test_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+SDL_test_1.cpp: In function 'int SDL_main(int, char**)':
+SDL_test_1.cpp:12:34: error: 'IMG_Load' was not declared in this scope
+  t = IMG_Load("../Debug/SDL1.jpg");
+                                  ^
+F:\git\C\dev-c\Makefile.win:28: recipe for target '../dev-c/SDL_test_1.o' failed
+mingw32-make.exe: *** [../dev-c/SDL_test_1.o] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 142.8017578125 KiB
+- Compilation Time: 1.53s
+
+2018/7/7 ÐÇÆÚÁù 11:01:31: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -c SDL_test_1.cpp -o ../dev-c/SDL_test_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+SDL_test_1.cpp:2:23: fatal error: SDL_image.h: No such file or directory
+ #include "SDL_image.h"
+                       ^
+compilation terminated.
+F:\git\C\dev-c\Makefile.win:28: recipe for target '../dev-c/SDL_test_1.o' failed
+mingw32-make.exe: *** [../dev-c/SDL_test_1.o] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 142.8017578125 KiB
+- Compilation Time: 1.09s
+
+2018/7/7 ÐÇÆÚÁù 11:04:03: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -c SDL_test_1.cpp -o ../dev-c/SDL_test_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+g++.exe ../dev-c/SDL_test_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 145.1943359375 KiB
+- Compilation Time: 1.90s
+
+2018/7/7 ÐÇÆÚÁù 11:04:49: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -c SDL_test_1.cpp -o ../dev-c/SDL_test_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+g++.exe ../dev-c/SDL_test_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 145.1943359375 KiB
+- Compilation Time: 1.89s
+
+2018/7/7 ÐÇÆÚÁù 11:06:56: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -c SDL_test_1.cpp -o ../dev-c/SDL_test_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+g++.exe ../dev-c/SDL_test_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 145.1943359375 KiB
+- Compilation Time: 1.92s
+
+2018/7/7 ÐÇÆÚÁù 11:08:03: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -c SDL_test_1.cpp -o ../dev-c/SDL_test_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+g++.exe ../dev-c/SDL_test_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 145.1943359375 KiB
+- Compilation Time: 1.86s
+
+2018/7/7 ÐÇÆÚÁù 11:08:31: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -c SDL_test_1.cpp -o ../dev-c/SDL_test_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+g++.exe ../dev-c/SDL_test_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 145.1943359375 KiB
+- Compilation Time: 1.83s
+
+2018/7/7 ÐÇÆÚÁù 11:14:31: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_1.o ../dev-c/SDL_test_2.o SDL_Test.exe
+g++.exe -c SDL_test_1.cpp -o ../dev-c/SDL_test_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+g++.exe -c SDL_test_2.cpp -o ../dev-c/SDL_test_2.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+g++.exe ../dev-c/SDL_test_1.o ../dev-c/SDL_test_2.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2
+../dev-c/SDL_test_2.o:SDL_test_2.cpp:(.text+0x0): multiple definition of `SDL_main'
+../dev-c/SDL_test_1.o:SDL_test_1.cpp:(.text+0x161): first defined here
+collect2.exe: error: ld returned 1 exit status
+F:\git\C\dev-c\Makefile.win:25: recipe for target 'SDL_Test.exe' failed
+mingw32-make.exe: *** [SDL_Test.exe] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Compilation Time: 3.95s
+
+2018/7/7 ÐÇÆÚÁù 11:14:55: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_1.o ../dev-c/SDL_test_2.o SDL_Test.exe
+g++.exe -c SDL_test_1.cpp -o ../dev-c/SDL_test_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+g++.exe -c SDL_test_2.cpp -o ../dev-c/SDL_test_2.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+SDL_test_2.cpp:10:1: error: expected unqualified-id before '{' token
+ {
+ ^
+F:\git\C\dev-c\Makefile.win:31: recipe for target '../dev-c/SDL_test_2.o' failed
+mingw32-make.exe: *** [../dev-c/SDL_test_2.o] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Compilation Time: 2.67s
+
+2018/7/7 ÐÇÆÚÁù 11:15:19: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_1.o ../dev-c/SDL_test_2.o SDL_Test.exe
+g++.exe -c SDL_test_1.cpp -o ../dev-c/SDL_test_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+g++.exe -c SDL_test_2.cpp -o ../dev-c/SDL_test_2.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+g++.exe ../dev-c/SDL_test_1.o ../dev-c/SDL_test_2.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 146.8642578125 KiB
+- Compilation Time: 3.60s
+
+2018/7/7 ÐÇÆÚÁù 11:15:47: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_1.o ../dev-c/SDL_test_2.o SDL_Test.exe
+g++.exe -c SDL_test_1.cpp -o ../dev-c/SDL_test_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+g++.exe -c SDL_test_2.cpp -o ../dev-c/SDL_test_2.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+g++.exe ../dev-c/SDL_test_1.o ../dev-c/SDL_test_2.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 146.8642578125 KiB
+- Compilation Time: 3.56s
+
+2018/7/7 ÐÇÆÚÁù 11:21:08: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_1.o ../dev-c/SDL_test_2.o ../dev-c/SDL_test_3.o SDL_Test.exe
+g++.exe -c SDL_test_1.cpp -o ../dev-c/SDL_test_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+g++.exe -c SDL_test_2.cpp -o ../dev-c/SDL_test_2.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+g++.exe -c SDL_test_3.cpp -o ../dev-c/SDL_test_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+g++.exe ../dev-c/SDL_test_1.o ../dev-c/SDL_test_2.o ../dev-c/SDL_test_3.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2
+../dev-c/SDL_test_3.o:SDL_test_3.cpp:(.text+0x0): multiple definition of `init()'
+../dev-c/SDL_test_1.o:SDL_test_1.cpp:(.text+0x0): first defined here
+../dev-c/SDL_test_3.o:SDL_test_3.cpp:(.text+0xb1): multiple definition of `loadMedia()'
+../dev-c/SDL_test_1.o:SDL_test_1.cpp:(.text+0xb1): first defined here
+../dev-c/SDL_test_3.o:SDL_test_3.cpp:(.text+0x119): multiple definition of `close()'
+../dev-c/SDL_test_1.o:SDL_test_1.cpp:(.text+0x119): first defined here
+../dev-c/SDL_test_3.o:SDL_test_3.cpp:(.bss+0x0): multiple definition of `gWindow'
+../dev-c/SDL_test_1.o:SDL_test_1.cpp:(.bss+0x0): first defined here
+../dev-c/SDL_test_3.o:SDL_test_3.cpp:(.bss+0x8): multiple definition of `gScreenSurface'
+../dev-c/SDL_test_1.o:SDL_test_1.cpp:(.bss+0x8): first defined here
+collect2.exe: error: ld returned 1 exit status
+F:\git\C\dev-c\Makefile.win:25: recipe for target 'SDL_Test.exe' failed
+mingw32-make.exe: *** [SDL_Test.exe] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Compilation Time: 4.32s
+
+2018/7/7 ÐÇÆÚÁù 11:21:52: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_3.o SDL_Test.exe
+g++.exe -c SDL_test_3.cpp -o ../dev-c/SDL_test_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+g++.exe ../dev-c/SDL_test_3.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 145.1904296875 KiB
+- Compilation Time: 2.08s
+
+2018/7/7 ÐÇÆÚÁù 11:22:01: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_3.o SDL_Test.exe
+g++.exe -c SDL_test_3.cpp -o ../dev-c/SDL_test_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+g++.exe ../dev-c/SDL_test_3.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 145.1904296875 KiB
+- Compilation Time: 1.98s
+
+2018/7/7 ÐÇÆÚÁù 11:22:06: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+mingw32-make.exe: Nothing to be done for 'all'.
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 145.1904296875 KiB
+- Compilation Time: 0.23s
+
+2018/7/7 ÐÇÆÚÁù 11:22:35: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+mingw32-make.exe: Nothing to be done for 'all'.
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 145.1904296875 KiB
+- Compilation Time: 0.28s
+
+2018/7/7 ÐÇÆÚÁù 11:23:52: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -c SDL_test_3.cpp -o ../dev-c/SDL_test_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+SDL_test_3.cpp: In function 'int SDL_main(int, char**)':
+SDL_test_3.cpp:134:17: error: 'SDL_delay' was not declared in this scope
+  SDL_delay(50000);
+                 ^
+F:\git\C\dev-c\Makefile.win:28: recipe for target '../dev-c/SDL_test_3.o' failed
+mingw32-make.exe: *** [../dev-c/SDL_test_3.o] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 145.1904296875 KiB
+- Compilation Time: 1.25s
+
+2018/7/7 ÐÇÆÚÁù 11:24:24: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -c SDL_test_3.cpp -o ../dev-c/SDL_test_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" 
+g++.exe ../dev-c/SDL_test_3.o ../dev-c/SDL_test_2.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 146.5087890625 KiB
+- Compilation Time: 1.94s
+
+2018/7/7 ÐÇÆÚÁù 11:25:48: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_3.o ../dev-c/SDL_test_2.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_3.cpp -o ../dev-c/SDL_test_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ -c SDL_test_2.cpp -o ../dev-c/SDL_test_2.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_3.o ../dev-c/SDL_test_2.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 487.0263671875 KiB
+- Compilation Time: 3.14s
+
+2018/7/7 ÐÇÆÚÁù 11:28:43: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_3.cpp -o ../dev-c/SDL_test_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_3.o ../dev-c/SDL_test_2.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 487.5263671875 KiB
+- Compilation Time: 2.09s
+
+2018/7/7 ÐÇÆÚÁù 11:29:56: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_3.cpp -o ../dev-c/SDL_test_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_3.o ../dev-c/SDL_test_2.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 487.0263671875 KiB
+- Compilation Time: 1.98s
+
+2018/7/7 ÐÇÆÚÁù 11:30:10: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_3.cpp -o ../dev-c/SDL_test_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_3.o ../dev-c/SDL_test_2.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 487.0263671875 KiB
+- Compilation Time: 1.78s
+
+2018/7/7 ÐÇÆÚÁù 11:36:09: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_3.cpp -o ../dev-c/SDL_test_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+SDL_test_3.cpp:7:23: fatal error: SDL_image.h: No such file or directory
+ #include <SDL_image.h>
+                       ^
+compilation terminated.
+F:\git\C\dev-c\Makefile.win:28: recipe for target '../dev-c/SDL_test_3.o' failed
+mingw32-make.exe: *** [../dev-c/SDL_test_3.o] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 487.0263671875 KiB
+- Compilation Time: 0.91s
+
+2018/7/7 ÐÇÆÚÁù 11:36:42: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_3.cpp -o ../dev-c/SDL_test_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+SDL_test_3.cpp:7:23: fatal error: SDL_image.h: No such file or directory
+ #include <SDL_image.h>
+                       ^
+compilation terminated.
+F:\git\C\dev-c\Makefile.win:28: recipe for target '../dev-c/SDL_test_3.o' failed
+mingw32-make.exe: *** [../dev-c/SDL_test_3.o] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 487.0263671875 KiB
+- Compilation Time: 0.87s
+
+2018/7/7 ÐÇÆÚÁù 11:36:45: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_3.o ../dev-c/SDL_test_2.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_3.cpp -o ../dev-c/SDL_test_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+SDL_test_3.cpp:7:23: fatal error: SDL_image.h: No such file or directory
+ #include <SDL_image.h>
+                       ^
+compilation terminated.
+F:\git\C\dev-c\Makefile.win:28: recipe for target '../dev-c/SDL_test_3.o' failed
+mingw32-make.exe: *** [../dev-c/SDL_test_3.o] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Compilation Time: 0.91s
+
+2018/7/7 ÐÇÆÚÁù 11:37:47: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_3.cpp -o ../dev-c/SDL_test_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+SDL_test_3.cpp:7:23: fatal error: SDL_image.h: No such file or directory
+ #include <SDL_image.h>
+                       ^
+compilation terminated.
+F:\git\C\dev-c\Makefile.win:28: recipe for target '../dev-c/SDL_test_3.o' failed
+mingw32-make.exe: *** [../dev-c/SDL_test_3.o] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Compilation Time: 0.97s
+
+2018/7/7 ÐÇÆÚÁù 11:39:00: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_3.cpp -o ../dev-c/SDL_test_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ -c SDL_test_2.cpp -o ../dev-c/SDL_test_2.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_3.o ../dev-c/SDL_test_2.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 487.0263671875 KiB
+- Compilation Time: 3.40s
+
+2018/7/7 ÐÇÆÚÁù 11:39:58: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_3.cpp -o ../dev-c/SDL_test_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_3.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 317.9619140625 KiB
+- Compilation Time: 1.94s
+
+2018/7/7 ÐÇÆÚÁù 11:50:39: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_3.cpp -o ../dev-c/SDL_test_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+SDL_test_3.cpp:7:23: fatal error: SDL_image.h: No such file or directory
+ #include <SDL_image.h>
+                       ^
+compilation terminated.
+F:\git\C\dev-c\Makefile.win:28: recipe for target '../dev-c/SDL_test_3.o' failed
+mingw32-make.exe: *** [../dev-c/SDL_test_3.o] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 317.9619140625 KiB
+- Compilation Time: 1.47s
+
+2018/7/7 ÐÇÆÚÁù 11:51:08: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_3.cpp -o ../dev-c/SDL_test_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+SDL_test_3.cpp:7:23: fatal error: SDL_image.h: No such file or directory
+ #include <SDL_image.h>
+                       ^
+compilation terminated.
+F:\git\C\dev-c\Makefile.win:28: recipe for target '../dev-c/SDL_test_3.o' failed
+mingw32-make.exe: *** [../dev-c/SDL_test_3.o] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 317.9619140625 KiB
+- Compilation Time: 1.00s
+
+2018/7/7 ÐÇÆÚÁù 11:53:52: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_3.cpp -o ../dev-c/SDL_test_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_3.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 318.4619140625 KiB
+- Compilation Time: 2.48s
+
+2018/7/7 ÐÇÆÚÁù 11:57:27: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_4.cpp -o ../dev-c/SDL_test_4.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -g3
+../dev-c/SDL_test_4.o: In function `loadMedia()':
+F:\git\C\dev-c/SDL_test_4.cpp:69: undefined reference to `IMG_LoadJPG_RW'
+collect2.exe: error: ld returned 1 exit status
+F:\git\C\dev-c\Makefile.win:25: recipe for target 'SDL_Test.exe' failed
+mingw32-make.exe: *** [SDL_Test.exe] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Compilation Time: 2.17s
+
+2018/7/7 ÐÇÆÚÁù 11:58:31: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 319.8017578125 KiB
+- Compilation Time: 0.89s
+
+2018/7/7 ÐÇÆÚÁù 11:58:33: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+mingw32-make.exe: Nothing to be done for 'all'.
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 319.8017578125 KiB
+- Compilation Time: 0.27s
+
+2018/7/7 ÐÇÆÚÁù 11:59:12: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_4.cpp -o ../dev-c/SDL_test_4.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 319.8017578125 KiB
+- Compilation Time: 2.00s
+
+2018/7/7 ÐÇÆÚÁù 11:59:52: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4.cpp -o ../dev-c/SDL_test_4.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 319.8017578125 KiB
+- Compilation Time: 2.20s
+
+2018/7/7 ÐÇÆÚÁù 12:00:19: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4.cpp -o ../dev-c/SDL_test_4.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 319.6435546875 KiB
+- Compilation Time: 1.98s
+
+2018/7/7 ÐÇÆÚÁù 12:00:24: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+mingw32-make.exe: Nothing to be done for 'all'.
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 319.6435546875 KiB
+- Compilation Time: 0.27s
+
+2018/7/7 ÐÇÆÚÁù 12:04:18: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_4.cpp -o ../dev-c/SDL_test_4.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 319.6435546875 KiB
+- Compilation Time: 2.03s
+
+2018/7/7 ÐÇÆÚÁù 15:09:36: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_4.cpp -o ../dev-c/SDL_test_4.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 319.6435546875 KiB
+- Compilation Time: 2.86s
+
+2018/7/7 ÐÇÆÚÁù 15:09:46: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4.cpp -o ../dev-c/SDL_test_4.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 319.6435546875 KiB
+- Compilation Time: 2.64s
+
+2018/7/7 ÐÇÆÚÁù 15:10:03: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4.cpp -o ../dev-c/SDL_test_4.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 319.8017578125 KiB
+- Compilation Time: 2.50s
+
+2018/7/7 ÐÇÆÚÁù 15:12:41: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4.cpp -o ../dev-c/SDL_test_4.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 315.537109375 KiB
+- Compilation Time: 2.50s
+
+2018/7/7 ÐÇÆÚÁù 15:13:34: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4.cpp -o ../dev-c/SDL_test_4.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 315.537109375 KiB
+- Compilation Time: 2.43s
+
+2018/7/7 ÐÇÆÚÁù 15:20:12: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4.cpp -o ../dev-c/SDL_test_4.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 315.537109375 KiB
+- Compilation Time: 2.28s
+
+2018/7/7 ÐÇÆÚÁù 15:22:29: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4.cpp -o ../dev-c/SDL_test_4.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 315.7158203125 KiB
+- Compilation Time: 2.39s
+
+2018/7/7 ÐÇÆÚÁù 15:27:40: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4_1.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4_1.cpp -o ../dev-c/SDL_test_4_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 308.1103515625 KiB
+- Compilation Time: 2.46s
+
+2018/7/7 ÐÇÆÚÁù 15:33:06: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4_1.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4_1.cpp -o ../dev-c/SDL_test_4_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+SDL_test_4_1.cpp: In function 'int SDL_main(int, char**)':
+SDL_test_4_1.cpp:14:55: error: 'renderer' was not declared in this scope
+  SDL_Texture * texture = SDL_CreateTextureFromSurface(renderer, image);
+                                                       ^
+F:\git\C\dev-c\Makefile.win:28: recipe for target '../dev-c/SDL_test_4_1.o' failed
+mingw32-make.exe: *** [../dev-c/SDL_test_4_1.o] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Compilation Time: 1.39s
+
+2018/7/7 ÐÇÆÚÁù 15:33:21: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4_1.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4_1.cpp -o ../dev-c/SDL_test_4_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+SDL_test_4_1.cpp: In function 'int SDL_main(int, char**)':
+SDL_test_4_1.cpp:14:55: error: 'renderer' was not declared in this scope
+  SDL_Texture * texture = SDL_CreateTextureFromSurface(renderer, image);
+                                                       ^
+F:\git\C\dev-c\Makefile.win:28: recipe for target '../dev-c/SDL_test_4_1.o' failed
+mingw32-make.exe: *** [../dev-c/SDL_test_4_1.o] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Compilation Time: 1.26s
+
+2018/7/7 ÐÇÆÚÁù 15:33:58: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4_1.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4_1.cpp -o ../dev-c/SDL_test_4_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 312.2587890625 KiB
+- Compilation Time: 2.11s
+
+2018/7/7 ÐÇÆÚÁù 15:34:59: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4_1.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4_1.cpp -o ../dev-c/SDL_test_4_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 312.2587890625 KiB
+- Compilation Time: 2.09s
+
+2018/7/7 ÐÇÆÚÁù 15:36:42: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4_1.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4_1.cpp -o ../dev-c/SDL_test_4_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 312.26171875 KiB
+- Compilation Time: 2.47s
+
+2018/7/7 ÐÇÆÚÁù 15:37:22: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4_1.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4_1.cpp -o ../dev-c/SDL_test_4_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 312.26171875 KiB
+- Compilation Time: 2.04s
+
+2018/7/7 ÐÇÆÚÁù 15:38:30: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4_1.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4_1.cpp -o ../dev-c/SDL_test_4_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+SDL_test_4_1.cpp: In function 'int SDL_main(int, char**)':
+SDL_test_4_1.cpp:21:72: error: 'printf' was not declared in this scope
+    printf( "SDL could not initialize! SDL_Error: %s\n", SDL_GetError() );
+                                                                        ^
+F:\git\C\dev-c\Makefile.win:28: recipe for target '../dev-c/SDL_test_4_1.o' failed
+mingw32-make.exe: *** [../dev-c/SDL_test_4_1.o] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Compilation Time: 1.45s
+
+2018/7/7 ÐÇÆÚÁù 15:38:50: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4_1.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4_1.cpp -o ../dev-c/SDL_test_4_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 315.5869140625 KiB
+- Compilation Time: 2.04s
+
+2018/7/7 ÐÇÆÚÁù 15:39:06: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_4_1.cpp -o ../dev-c/SDL_test_4_1.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_1.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 315.2587890625 KiB
+- Compilation Time: 1.92s
+
+2018/7/7 ÐÇÆÚÁù 17:13:38: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4_2.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4_2.cpp -o ../dev-c/SDL_test_4_2.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+SDL_test_4_2.cpp: In function 'int SDL_main(int, char**)':
+SDL_test_4_2.cpp:28:20: error: 'surface' was not declared in this scope
+  SDL_Rect box={0,0,surface->w,surface->h};
+                    ^
+F:\git\C\dev-c\Makefile.win:28: recipe for target '../dev-c/SDL_test_4_2.o' failed
+mingw32-make.exe: *** [../dev-c/SDL_test_4_2.o] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Compilation Time: 1.84s
+
+2018/7/7 ÐÇÆÚÁù 17:14:04: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4_2.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4_2.cpp -o ../dev-c/SDL_test_4_2.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_2.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 316.2470703125 KiB
+- Compilation Time: 2.18s
+
+2018/7/7 ÐÇÆÚÁù 17:15:17: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4_2.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4_2.cpp -o ../dev-c/SDL_test_4_2.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_2.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 316.2470703125 KiB
+- Compilation Time: 2.01s
+
+2018/7/7 ÐÇÆÚÁù 17:18:30: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4_2.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4_2.cpp -o ../dev-c/SDL_test_4_2.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_2.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 315.9189453125 KiB
+- Compilation Time: 2.23s
+
+2018/7/7 ÐÇÆÚÁù 17:19:51: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4_2.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4_2.cpp -o ../dev-c/SDL_test_4_2.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_2.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 315.9189453125 KiB
+- Compilation Time: 2.17s
+
+2018/7/7 ÐÇÆÚÁù 17:21:36: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4_2.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4_2.cpp -o ../dev-c/SDL_test_4_2.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_2.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 316.2470703125 KiB
+- Compilation Time: 2.28s
+
+2018/7/7 ÐÇÆÚÁù 17:36:35: Appending to log...
+
+Cleaning project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe clean -f "F:\git\C\dev-c\Makefile.win"
+
+rm.exe -f ../dev-c/SDL_test_4_2.o SDL_Test.exe
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Compilation Time: 0.42s
+
+2018/7/7 ÐÇÆÚÁù 17:37:15: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_4_2.cpp -o ../dev-c/SDL_test_4_2.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_2.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 316.2470703125 KiB
+- Compilation Time: 2.29s
+
+2018/7/7 ÐÇÆÚÁù 17:40:50: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4_2.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4_2.cpp -o ../dev-c/SDL_test_4_2.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_2.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 316.2470703125 KiB
+- Compilation Time: 2.25s
+
+2018/7/7 ÐÇÆÚÁù 18:25:42: Appending to log...
+
+Cleaning project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe clean -f "F:\git\C\dev-c\Makefile.win"
+
+rm.exe -f ../dev-c/SDL_test_4_2.o ../dev-c/SDL_test_4_3.o SDL_Test.exe
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Compilation Time: 0.67s
+
+2018/7/7 ÐÇÆÚÁù 18:26:10: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4_3.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4_3.cpp -o ../dev-c/SDL_test_4_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+SDL_test_4_3.cpp:3:33: fatal error: SDL2/SDL.h: No such file or directory
+ #include <SDL2/SDL.h>//ÒýÓÃSDL¿â
+                                 ^
+compilation terminated.
+F:\git\C\dev-c\Makefile.win:28: recipe for target '../dev-c/SDL_test_4_3.o' failed
+mingw32-make.exe: *** [../dev-c/SDL_test_4_3.o] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Compilation Time: 1.26s
+
+2018/7/7 ÐÇÆÚÁù 18:26:29: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_4_3.cpp -o ../dev-c/SDL_test_4_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_3.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 303.248046875 KiB
+- Compilation Time: 2.12s
+
+2018/7/7 ÐÇÆÚÁù 20:23:31: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_4_3.cpp -o ../dev-c/SDL_test_4_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+SDL_test_4_3.cpp: In function 'int SDL_main(int, char**)':
+SDL_test_4_3.cpp:25:18: error: 'event' was not declared in this scope
+   SDL_WaitEvent(&event);
+                  ^
+F:\git\C\dev-c\Makefile.win:28: recipe for target '../dev-c/SDL_test_4_3.o' failed
+mingw32-make.exe: *** [../dev-c/SDL_test_4_3.o] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 303.248046875 KiB
+- Compilation Time: 1.75s
+
+2018/7/7 ÐÇÆÚÁù 20:23:57: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_4_3.cpp -o ../dev-c/SDL_test_4_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ -c SDL_test_4_2.cpp -o ../dev-c/SDL_test_4_2.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_3.o ../dev-c/SDL_test_4_2.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+../dev-c/SDL_test_4_2.o: In function `SDL_main':
+F:\git\C\dev-c/SDL_test_4_2.cpp:6: multiple definition of `SDL_main'
+../dev-c/SDL_test_4_3.o:F:\git\C\dev-c/SDL_test_4_3.cpp:7: first defined here
+collect2.exe: error: ld returned 1 exit status
+F:\git\C\dev-c\Makefile.win:25: recipe for target 'SDL_Test.exe' failed
+mingw32-make.exe: *** [SDL_Test.exe] Error 1
+
+Compilation results...
+--------
+- Errors: 1
+- Warnings: 0
+- Compilation Time: 3.23s
+
+2018/7/7 ÐÇÆÚÁù 20:24:06: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_3.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 314.404296875 KiB
+- Compilation Time: 1.01s
+
+2018/7/7 ÐÇÆÚÁù 20:25:13: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_4_3.cpp -o ../dev-c/SDL_test_4_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_3.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 314.404296875 KiB
+- Compilation Time: 2.01s
+
+2018/7/7 ÐÇÆÚÁù 20:26:37: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_4_3.cpp -o ../dev-c/SDL_test_4_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_3.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 314.404296875 KiB
+- Compilation Time: 2.40s
+
+2018/7/7 ÐÇÆÚÁù 20:36:21: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_4_3.cpp -o ../dev-c/SDL_test_4_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_3.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 314.404296875 KiB
+- Compilation Time: 2.23s
+
+2018/7/7 ÐÇÆÚÁù 20:38:04: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_4_3.cpp -o ../dev-c/SDL_test_4_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_3.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 314.404296875 KiB
+- Compilation Time: 2.08s
+
+2018/7/7 ÐÇÆÚÁù 20:38:54: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_4_3.cpp -o ../dev-c/SDL_test_4_3.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_3.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 314.404296875 KiB
+- Compilation Time: 2.29s
+
+2018/7/7 ÐÇÆÚÁù 20:43:11: Appending to log...
+
+Cleaning project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe clean -f "F:\git\C\dev-c\Makefile.win"
+
+rm.exe -f ../dev-c/SDL_test_4_3.o ../dev-c/SDL_test_4_2.o SDL_Test.exe
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Compilation Time: 0.56s
+
+2018/7/7 ÐÇÆÚÁù 20:44:13: Appending to log...
+
+Compiling project changes...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" all
+
+g++.exe -D__DEBUG__ -c SDL_test_4_2.cpp -o ../dev-c/SDL_test_4_2.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_2.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 316.2470703125 KiB
+- Compilation Time: 2.22s
+
+2018/7/7 ÐÇÆÚÁù 20:45:30: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4_2.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4_2.cpp -o ../dev-c/SDL_test_4_2.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_2.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 316.2470703125 KiB
+- Compilation Time: 2.23s
+
+2018/7/7 ÐÇÆÚÁù 20:45:53: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4_2.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4_2.cpp -o ../dev-c/SDL_test_4_2.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_2.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 316.2470703125 KiB
+- Compilation Time: 2.08s
+
+2018/7/7 ÐÇÆÚÁù 20:46:08: Appending to log...
+
+Cleaning project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe clean -f "F:\git\C\dev-c\Makefile.win"
+
+rm.exe -f ../dev-c/SDL_test_4_2.o SDL_Test.exe
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Compilation Time: 0.37s
+
+2018/7/7 ÐÇÆÚÁù 20:46:55: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4_2.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4_2.cpp -o ../dev-c/SDL_test_4_2.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_2.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 316.2470703125 KiB
+- Compilation Time: 2.31s
+
+2018/7/7 ÐÇÆÚÁù 20:49:11: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4_2.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4_2.cpp -o ../dev-c/SDL_test_4_2.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_2.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 316.2470703125 KiB
+- Compilation Time: 2.56s
+
+2018/7/7 ÐÇÆÚÁù 20:56:01: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4_2.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4_2.cpp -o ../dev-c/SDL_test_4_2.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_2.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 316.2470703125 KiB
+- Compilation Time: 2.95s
+
+2018/7/7 ÐÇÆÚÁù 20:56:30: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4_2.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4_2.cpp -o ../dev-c/SDL_test_4_2.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_2.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 316.2470703125 KiB
+- Compilation Time: 2.01s
+
+2018/7/7 ÐÇÆÚÁù 20:57:09: Appending to log...
+
+Rebuilding whole project...
+--------
+- Project Filename: F:\git\C\dev-c\SDL_Test.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: F:\git\C\dev-c\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "F:\git\C\dev-c\Makefile.win" clean all
+
+rm.exe -f ../dev-c/SDL_test_4_2.o SDL_Test.exe
+g++.exe -D__DEBUG__ -c SDL_test_4_2.cpp -o ../dev-c/SDL_test_4_2.o -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"D:/SDL-2.0.8/include/SDL2" -g3
+g++.exe -D__DEBUG__ ../dev-c/SDL_test_4_2.o -o SDL_Test.exe -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -L"D:/SDL-2.0.8/lib" -static-libgcc -mwindows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -g3
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: F:\git\C\dev-c\SDL_Test.exe
+- Output Size: 316.2470703125 KiB
+- Compilation Time: 2.04s

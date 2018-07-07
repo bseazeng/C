@@ -1,0 +1,278 @@
+2018/7/7 ÐÇÆÚÁù 10:44:58: Creating log...
+
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot find -lSDL2main
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot find -lSDL2
+		F:\git\C\dev-c\collect2.exe	[Error] ld returned 1 exit status
+25		F:\git\C\dev-c\Makefile.win	recipe for target 'SDL_Test.exe' failed
+
+2018/7/7 ÐÇÆÚÁù 10:45:20: Appending to log...
+
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib\libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot find -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDL.dll.a when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDL.dll.a when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot find -lSDL
+		F:\git\C\dev-c\collect2.exe	[Error] ld returned 1 exit status
+25		F:\git\C\dev-c\Makefile.win	recipe for target 'SDL_Test.exe' failed
+
+2018/7/7 ÐÇÆÚÁù 10:46:22: Appending to log...
+
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib\libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot find -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDL.dll.a when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDL.dll.a when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot find -lSDL
+		F:\git\C\dev-c\collect2.exe	[Error] ld returned 1 exit status
+25		F:\git\C\dev-c\Makefile.win	recipe for target 'SDL_Test.exe' failed
+
+2018/7/7 ÐÇÆÚÁù 10:46:29: Appending to log...
+
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib\libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot find -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDL.dll.a when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDL.dll.a when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot find -lSDL
+		F:\git\C\dev-c\collect2.exe	[Error] ld returned 1 exit status
+25		F:\git\C\dev-c\Makefile.win	recipe for target 'SDL_Test.exe' failed
+
+2018/7/7 ÐÇÆÚÁù 10:48:45: Appending to log...
+
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib\libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot find -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDL.dll.a when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDL.dll.a when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot find -lSDL
+		F:\git\C\dev-c\collect2.exe	[Error] ld returned 1 exit status
+25		F:\git\C\dev-c\Makefile.win	recipe for target 'SDL_Test.exe' failed
+
+2018/7/7 ÐÇÆÚÁù 10:49:29: Appending to log...
+
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib\libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot find -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDL.dll.a when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDL.dll.a when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot find -lSDL
+		F:\git\C\dev-c\collect2.exe	[Error] ld returned 1 exit status
+25		F:\git\C\dev-c\Makefile.win	recipe for target 'SDL_Test.exe' failed
+
+2018/7/7 ÐÇÆÚÁù 10:49:35: Appending to log...
+
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib\libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot find -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDL.dll.a when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDL.dll.a when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot find -lSDL
+		F:\git\C\dev-c\collect2.exe	[Error] ld returned 1 exit status
+25		F:\git\C\dev-c\Makefile.win	recipe for target 'SDL_Test.exe' failed
+
+2018/7/7 ÐÇÆÚÁù 10:53:40: Appending to log...
+
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib\libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot find -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDL.a when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib\libSDL.a when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDL.a when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot find -lSDL
+		F:\git\C\dev-c\collect2.exe	[Error] ld returned 1 exit status
+25		F:\git\C\dev-c\Makefile.win	recipe for target 'SDL_Test.exe' failed
+
+2018/7/7 ÐÇÆÚÁù 10:53:45: Appending to log...
+
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib\libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot find -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDL.a when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib\libSDL.a when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDL.a when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot find -lSDL
+		F:\git\C\dev-c\collect2.exe	[Error] ld returned 1 exit status
+25		F:\git\C\dev-c\Makefile.win	recipe for target 'SDL_Test.exe' failed
+
+2018/7/7 ÐÇÆÚÁù 10:53:53: Appending to log...
+
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib\libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDLmain.a when searching for -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot find -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDL.a when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib\libSDL.a when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/lib/libSDL.a when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	skipping incompatible D:/SDL-1.2.15/bin/SDL.dll when searching for -lSDL
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot find -lSDL
+		F:\git\C\dev-c\collect2.exe	[Error] ld returned 1 exit status
+25		F:\git\C\dev-c\Makefile.win	recipe for target 'SDL_Test.exe' failed
+
+2018/7/7 ÐÇÆÚÁù 10:56:10: Appending to log...
+
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot find -lSDLmain
+		D:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot find -lSDL
+		F:\git\C\dev-c\collect2.exe	[Error] ld returned 1 exit status
+25		F:\git\C\dev-c\Makefile.win	recipe for target 'SDL_Test.exe' failed
+
+2018/7/7 ÐÇÆÚÁù 10:56:46: Appending to log...
+
+		F:\git\C\dev-c\SDL_test_1.o	SDL_test_1.cpp:(.text+0x40): undefined reference to `SDL_SetVideoMode'
+		F:\git\C\dev-c\collect2.exe	[Error] ld returned 1 exit status
+25		F:\git\C\dev-c\Makefile.win	recipe for target 'SDL_Test.exe' failed
+
+2018/7/7 ÐÇÆÚÁù 11:01:02: Appending to log...
+
+		F:\git\C\dev-c\SDL_test_1.cpp	In function 'int SDL_main(int, char**)':
+12	34	F:\git\C\dev-c\SDL_test_1.cpp	[Error] 'IMG_Load' was not declared in this scope
+28		F:\git\C\dev-c\Makefile.win	recipe for target '../dev-c/SDL_test_1.o' failed
+
+2018/7/7 ÐÇÆÚÁù 11:01:31: Appending to log...
+
+2	23	F:\git\C\dev-c\SDL_test_1.cpp	[Error] SDL_image.h: No such file or directory
+			compilation terminated.
+28		F:\git\C\dev-c\Makefile.win	recipe for target '../dev-c/SDL_test_1.o' failed
+
+2018/7/7 ÐÇÆÚÁù 11:14:31: Appending to log...
+
+		F:\git\C\dev-c\SDL_test_2.o	SDL_test_2.cpp:(.text+0x0): multiple definition of `SDL_main'
+		F:\git\C\dev-c\SDL_test_1.o	SDL_test_1.cpp:(.text+0x161): first defined here
+		F:\git\C\dev-c\collect2.exe	[Error] ld returned 1 exit status
+25		F:\git\C\dev-c\Makefile.win	recipe for target 'SDL_Test.exe' failed
+
+2018/7/7 ÐÇÆÚÁù 11:14:55: Appending to log...
+
+10	1	F:\git\C\dev-c\SDL_test_2.cpp	[Error] expected unqualified-id before '{' token
+31		F:\git\C\dev-c\Makefile.win	recipe for target '../dev-c/SDL_test_2.o' failed
+
+2018/7/7 ÐÇÆÚÁù 11:21:08: Appending to log...
+
+		F:\git\C\dev-c\SDL_test_3.o	SDL_test_3.cpp:(.text+0x0): multiple definition of `init()'
+		F:\git\C\dev-c\SDL_test_1.o	SDL_test_1.cpp:(.text+0x0): first defined here
+		F:\git\C\dev-c\SDL_test_3.o	SDL_test_3.cpp:(.text+0xb1): multiple definition of `loadMedia()'
+		F:\git\C\dev-c\SDL_test_1.o	SDL_test_1.cpp:(.text+0xb1): first defined here
+		F:\git\C\dev-c\SDL_test_3.o	SDL_test_3.cpp:(.text+0x119): multiple definition of `close()'
+		F:\git\C\dev-c\SDL_test_1.o	SDL_test_1.cpp:(.text+0x119): first defined here
+		F:\git\C\dev-c\SDL_test_3.o	SDL_test_3.cpp:(.bss+0x0): multiple definition of `gWindow'
+		F:\git\C\dev-c\SDL_test_1.o	SDL_test_1.cpp:(.bss+0x0): first defined here
+		F:\git\C\dev-c\SDL_test_3.o	SDL_test_3.cpp:(.bss+0x8): multiple definition of `gScreenSurface'
+		F:\git\C\dev-c\SDL_test_1.o	SDL_test_1.cpp:(.bss+0x8): first defined here
+		F:\git\C\dev-c\collect2.exe	[Error] ld returned 1 exit status
+25		F:\git\C\dev-c\Makefile.win	recipe for target 'SDL_Test.exe' failed
+
+2018/7/7 ÐÇÆÚÁù 11:23:52: Appending to log...
+
+		F:\git\C\dev-c\SDL_test_3.cpp	In function 'int SDL_main(int, char**)':
+134	17	F:\git\C\dev-c\SDL_test_3.cpp	[Error] 'SDL_delay' was not declared in this scope
+28		F:\git\C\dev-c\Makefile.win	recipe for target '../dev-c/SDL_test_3.o' failed
+
+2018/7/7 ÐÇÆÚÁù 11:36:09: Appending to log...
+
+7	23	F:\git\C\dev-c\SDL_test_3.cpp	[Error] SDL_image.h: No such file or directory
+			compilation terminated.
+28		F:\git\C\dev-c\Makefile.win	recipe for target '../dev-c/SDL_test_3.o' failed
+
+2018/7/7 ÐÇÆÚÁù 11:36:42: Appending to log...
+
+7	23	F:\git\C\dev-c\SDL_test_3.cpp	[Error] SDL_image.h: No such file or directory
+			compilation terminated.
+28		F:\git\C\dev-c\Makefile.win	recipe for target '../dev-c/SDL_test_3.o' failed
+
+2018/7/7 ÐÇÆÚÁù 11:36:45: Appending to log...
+
+7	23	F:\git\C\dev-c\SDL_test_3.cpp	[Error] SDL_image.h: No such file or directory
+			compilation terminated.
+28		F:\git\C\dev-c\Makefile.win	recipe for target '../dev-c/SDL_test_3.o' failed
+
+2018/7/7 ÐÇÆÚÁù 11:37:47: Appending to log...
+
+7	23	F:\git\C\dev-c\SDL_test_3.cpp	[Error] SDL_image.h: No such file or directory
+			compilation terminated.
+28		F:\git\C\dev-c\Makefile.win	recipe for target '../dev-c/SDL_test_3.o' failed
+
+2018/7/7 ÐÇÆÚÁù 11:50:39: Appending to log...
+
+7	23	F:\git\C\dev-c\SDL_test_3.cpp	[Error] SDL_image.h: No such file or directory
+			compilation terminated.
+28		F:\git\C\dev-c\Makefile.win	recipe for target '../dev-c/SDL_test_3.o' failed
+
+2018/7/7 ÐÇÆÚÁù 11:51:08: Appending to log...
+
+7	23	F:\git\C\dev-c\SDL_test_3.cpp	[Error] SDL_image.h: No such file or directory
+			compilation terminated.
+28		F:\git\C\dev-c\Makefile.win	recipe for target '../dev-c/SDL_test_3.o' failed
+
+2018/7/7 ÐÇÆÚÁù 11:57:27: Appending to log...
+
+		F:\git\C\dev-c\SDL_test_4.o	In function `loadMedia()':
+69		F:\git\C\dev-c\SDL_test_4.cpp	undefined reference to `IMG_LoadJPG_RW'
+		F:\git\C\dev-c\collect2.exe	[Error] ld returned 1 exit status
+25		F:\git\C\dev-c\Makefile.win	recipe for target 'SDL_Test.exe' failed
+
+2018/7/7 ÐÇÆÚÁù 15:33:06: Appending to log...
+
+		F:\git\C\dev-c\SDL_test_4_1.cpp	In function 'int SDL_main(int, char**)':
+14	55	F:\git\C\dev-c\SDL_test_4_1.cpp	[Error] 'renderer' was not declared in this scope
+28		F:\git\C\dev-c\Makefile.win	recipe for target '../dev-c/SDL_test_4_1.o' failed
+
+2018/7/7 ÐÇÆÚÁù 15:33:21: Appending to log...
+
+		F:\git\C\dev-c\SDL_test_4_1.cpp	In function 'int SDL_main(int, char**)':
+14	55	F:\git\C\dev-c\SDL_test_4_1.cpp	[Error] 'renderer' was not declared in this scope
+28		F:\git\C\dev-c\Makefile.win	recipe for target '../dev-c/SDL_test_4_1.o' failed
+
+2018/7/7 ÐÇÆÚÁù 15:38:30: Appending to log...
+
+		F:\git\C\dev-c\SDL_test_4_1.cpp	In function 'int SDL_main(int, char**)':
+21	72	F:\git\C\dev-c\SDL_test_4_1.cpp	[Error] 'printf' was not declared in this scope
+28		F:\git\C\dev-c\Makefile.win	recipe for target '../dev-c/SDL_test_4_1.o' failed
+
+2018/7/7 ÐÇÆÚÁù 17:13:38: Appending to log...
+
+		F:\git\C\dev-c\SDL_test_4_2.cpp	In function 'int SDL_main(int, char**)':
+28	20	F:\git\C\dev-c\SDL_test_4_2.cpp	[Error] 'surface' was not declared in this scope
+28		F:\git\C\dev-c\Makefile.win	recipe for target '../dev-c/SDL_test_4_2.o' failed
+
+2018/7/7 ÐÇÆÚÁù 18:26:10: Appending to log...
+
+3	33	F:\git\C\dev-c\SDL_test_4_3.cpp	[Error] SDL2/SDL.h: No such file or directory
+			compilation terminated.
+28		F:\git\C\dev-c\Makefile.win	recipe for target '../dev-c/SDL_test_4_3.o' failed
+
+2018/7/7 ÐÇÆÚÁù 20:23:31: Appending to log...
+
+		F:\git\C\dev-c\SDL_test_4_3.cpp	In function 'int SDL_main(int, char**)':
+25	18	F:\git\C\dev-c\SDL_test_4_3.cpp	[Error] 'event' was not declared in this scope
+28		F:\git\C\dev-c\Makefile.win	recipe for target '../dev-c/SDL_test_4_3.o' failed
+
+2018/7/7 ÐÇÆÚÁù 20:23:57: Appending to log...
+
+		F:\git\C\dev-c\SDL_test_4_2.o	In function `SDL_main':
+6		F:\git\C\dev-c\SDL_test_4_2.cpp	multiple definition of `SDL_main'
+		F:\git\C\dev-c\SDL_test_4_3.o	F:\git\C\dev-c/SDL_test_4_3.cpp:7: first defined here
+		F:\git\C\dev-c\collect2.exe	[Error] ld returned 1 exit status
+25		F:\git\C\dev-c\Makefile.win	recipe for target 'SDL_Test.exe' failed
